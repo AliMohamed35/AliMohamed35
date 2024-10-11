@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AliMohamed35
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning: .NET (Backend)
+- 📫 How to reach me: alimohmaeddev@hotmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a professional gamer 😂
