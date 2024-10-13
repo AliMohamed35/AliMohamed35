@@ -19,6 +19,7 @@ DrumKit: [(Link to project)](https://github.com/AliMohamed35/Drum-kit): This pro
 🤝 Connect with Me
 
 Linkedin: https://www.linkedin.com/in/ali-mohamed-00b288294/
+
 Personal Portfolio: https://alimohamed35.github.io/Portfolio/
 
 📫 How to Reach Me
