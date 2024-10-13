@@ -17,8 +17,8 @@ DrumKit: [(Link to project)](https://github.com/AliMohamed35/Drum-kit): This pro
 
 
 🤝 Connect with Me
-[[LinkedIn](Your LinkedIn profile link)](https://www.linkedin.com/in/ali-mohamed-00b288294/)
-[[Personal Website/Blog](Your website link)](https://alimohamed35.github.io/Portfolio/)
+Linkedin: https://www.linkedin.com/in/ali-mohamed-00b288294/
+Personal Portfolio: https://alimohamed35.github.io/Portfolio/
 
 📫 How to Reach Me
 Feel free to reach out if you want to collaborate on projects or just chat about tech! You can email me at alimohameddev@hotmail.com
