@@ -15,6 +15,7 @@ Here are some of the projects I’m proud of:
 
 DrumKit: [(Link to project)](https://github.com/AliMohamed35/Drum-kit): This project focuses on writing clean code and creating interactive drum kit for user to play around with. also focuses on events.
 
+WordGame: [(Link to project)](https://github.com/AliMohamed35/Word_game): This project focuses on creating an interactive game with HTML, CSS and javascript.
 
 🤝 Connect with Me
 
