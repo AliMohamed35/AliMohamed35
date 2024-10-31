@@ -21,7 +21,7 @@ WordGame: [(Link to project)](https://github.com/AliMohamed35/Word_game): This p
 
 Linkedin: https://www.linkedin.com/in/ali-mohamed-00b288294/
 
-Personal Portfolio: https://alimohamed35.github.io/Portfolio/
+Personal Portfolio: [https://alimohamed35.github.io/Portfolio/](https://alimohamed35.github.io/PersonalPortfolio/)
 
 📫 How to Reach Me
 Feel free to reach out if you want to collaborate on projects or just chat about tech! You can email me at alimohameddev@hotmail.com
