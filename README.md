@@ -13,7 +13,7 @@ Tools: Git
 📂 Projects
 Here are some of the projects I’m proud of:
 
-DrumKit: [(Link to project)](https://github.com/AliMohamed35/Todo-List): This is a simple and responsive To-Do List application built with ReactJS. It helps users manage their daily tasks by allowing them to add, mark as complete, and delete items. This project showcases fundamental skills in React, including component-based architecture, state management, and event handling.
+Reactjs (To-do list): [(Link to project)](https://github.com/AliMohamed35/Todo-List): This is a simple and responsive To-Do List application built with ReactJS. It helps users manage their daily tasks by allowing them to add, mark as complete, and delete items. This project showcases fundamental skills in React, including component-based architecture, state management, and event handling.
 
 WordGame: [(Link to project)](https://github.com/AliMohamed35/Word_game): This project focuses on creating an interactive game with HTML, CSS and javascript.
 
