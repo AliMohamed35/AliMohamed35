@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I’m a Web developer with a passion for Fullstack devlopement. I love working on projects that focuses on solving real life problems and explores different techs..
 
 🌱 About Me
-🔭 I’m currently working on Studying .NET frame work.
+🔭 I’m currently My Reactjs knowledge to projects.
 🌍 I’m based in Egypt.
 ⚡ Fun fact: I'm an expert gamer 👦.
 💻 Skills
