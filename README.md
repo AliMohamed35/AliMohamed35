@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Personal Portfolio website.<br>🌱 I’m currently learning Backend development.<br>💬 Ask me about React, Front-end.<br>⚡ Fun fact I'm an expert gamer 🧒.
+https://www.codewars.com/users/AliMohamed35/badges/large
 
 
 ## 🌐 Socials:
