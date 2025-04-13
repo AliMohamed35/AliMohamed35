@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-commerce Online store.<br>🌱 I’m currently learning PHP -Laravel.<br>⚡ Fun fact I'm an expert gamer 🧒.
+🔭 I’m currently working on learning new technology.<br>🌱 I’m currently learning Java-Spring boot.<br>⚡ Fun fact I'm an expert gamer 🧒.
 
 
 
