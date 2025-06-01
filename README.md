@@ -1,7 +1,7 @@
 ![Codewars](https://www.codewars.com/users/AliMohamed35/badges/large)
 
 # 💫 About Me:
-🔭 I’m currently working on learning new technology.<br>🌱 I’m currently learning Java and Spring boot.<br>⚡ Fun fact I'm an expert gamer 🧒.
+🔭 I’m currently working on learning new technology.<br>🌱 I’m currently learning Nodejs.<br>⚡ Fun fact I'm an expert gamer 🧒.
 
 
 ## 🌐 Socials:
@@ -43,11 +43,3 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=AliMohamed35&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMohamed35&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=AliMohamed35&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
