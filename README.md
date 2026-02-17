@@ -1,7 +1,7 @@
 ![Codewars](https://www.codewars.com/users/AliMohamed35/badges/large)
 
 # 💫 About Me:
-🔭 I’m currently working on an Clinic managemet system website Nodejs. <br>🌱 I’m currently learning Nestjs.<br>⚡ Fun fact I'm an expert gamer 🧒.
+🔭 I’m currently working on an Book store e-commerce system website Nodejs. <br>🌱 I’m currently learning python.<br>⚡ Fun fact I'm an expert gamer 🧒.
 
 
 ## 🌐 Socials:
