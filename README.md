@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohamed35&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamed35" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on an Book store e-commerce system website Nodejs. <br>🌱 I’m currently learning python.<br>⚡ Fun fact I'm an expert gamer 🧒.
+🔭 I’m currently working on a Social media project. <br>🌱 I’m currently learning TS.<br>⚡ Fun fact I'm an expert gamer 🧒.
 
 
 ## 🌐 Socials:
