@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohamed35&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamed35" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on a Clinical management system. <br>🌱 I’m currently learning PHP & Larevel.<br>⚡ Fun fact I'm an expert gamer.
+🔭 I’m currently working on a Clinical management system. <br>🌱 I’m currently learning Database Design.<br>⚡ Fun fact I'm an expert gamer.
 
 
 ## 🌐 Socials:
