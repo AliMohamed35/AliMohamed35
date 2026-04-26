@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohamed35&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamed35" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on a Social media platform. <br>🌱 I’m currently learning Database Design | Web sockets.
+🔭 I’m currently working on a Social media platform.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100039247851278) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.mohamed.35) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alimohameddev35@gmail.com) 
