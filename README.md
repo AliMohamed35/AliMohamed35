@@ -4,6 +4,9 @@
 
 # 💫 About Me:
 🔭 I’m currently working on a Social media platform.
+Backend Developer skilled in building scalable APIs with Node.js and MongoDB. Experienced in designing 
+efficient database schemas and optimizing backend performance also, experienced with frontend technologies 
+like React.js, enabling smooth collaboration across the full stack.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100039247851278) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.mohamed.35) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alimohameddev35@gmail.com) 
