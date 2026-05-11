@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohamed35&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamed35" /> </p>
 
+# Currently learning:
+- Python
+- FastAPI
+
 # 💫 About Me:
 🔭 I’m currently working on a Social media platform.
 Backend Developer skilled in building scalable APIs with Node.js and MongoDB. Experienced in designing 
