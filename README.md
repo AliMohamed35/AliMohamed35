@@ -4,7 +4,7 @@
 
 # Currently learning:
 - Python
-- FastAPI
+- Django
 
 # 💫 About Me:
 🔭 I’m currently working on a Social media platform.
