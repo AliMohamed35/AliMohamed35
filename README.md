@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohamed35&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamed35" /> </p>
 
 # Currently learning:
-- Java
-- Springboot
-- Jest | JUnit
+- Redis
+- locking
+- Jest | testing
 
 # 💫 About Me:
 🔭 I’m currently working on a Social media platform.
