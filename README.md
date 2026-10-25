@@ -9,8 +9,8 @@
 - Jest | testing
 
 # 💫 About Me:
-🔭 I’m currently working on a Social media platform.
-Backend Developer skilled in building scalable APIs with Node.js, SpringBoot Postegres and MongoDB. Experienced in designing 
+🔭 I’m currently working on a ECommerce platform.
+Backend Developer skilled in building scalable APIs with Node.js, SpringBoot, MySQL and MongoDB. Experienced in designing 
 efficient database schemas and optimizing backend performance also, experienced with frontend technologies 
 like React.js, enabling smooth collaboration across the full stack.
 
